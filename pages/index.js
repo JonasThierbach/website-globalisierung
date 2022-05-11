@@ -22,8 +22,7 @@ export default function Home({ githubProfileData }) {
 				data={{
 					title: "Globalisierung",
 					description:
-						"A passionate Full Stack Web Developer and Blockchain Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+						"Fast Fashion und Elektroschrott.",
 					url: "https://developer-portfolio-1hanzla100.vercel.app",
 					keywords: [
 						"Hanzla",
