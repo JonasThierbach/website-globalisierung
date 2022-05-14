@@ -196,28 +196,7 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/lol.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"Wer hat eigentlich dran Schuld, dass es so viel Elektroschrott gibt? Welche Länder kommen dafür auf?"
-				),
-				emoji(
-					"-------- Alle Ursachen zusammengefasst: --------"
-				),
-				emoji(
-					"⦿ \"geplante Obsoleszene\" - geplantes ältern vom Gerät, welches der Händler konstruiert hat"
-				),
-				emoji(
-					"⦿ Reparatur kosten zu teuer (-Transportkosten). \"Lieber ein neues Gerät, für solch einen Preis\""
-				),
-				emoji(
-					"⦿ zu geringe Leistung oder keine Aktualisierungsmöglichkeiten, dazu zählen Betriebssysteme welche auf älteren Geräten nicht kompatibel sind oder die älteren Geräte zu wenig Leistung für diese haben."
-				),
-				emoji(
-					"⦿ Ersatz des Analogen Fernsehen durch digitales Fernsehen"
-				),
-				emoji(
-					"⦿ Fehlkäufe von \"Billigprodukten\" welche nicht weiter verkauft werden können"
-				),
-				emoji(
-					"⦿ Viele Nutzer wollen das schönste Gerät von allen und achten hierbei nur auf die Designs von den Geräten und kaufen sich immer das Neuste auf dem Markt"
+					"Die fünf Länder mit dem größten Anteil an Elektroschrott-Aufkommen im Jahr 2014 waren die USA, auf Platz 1, mit 7,1 Millionnen Tonnen. China folgt auf dem Platz 2 mit 6,0 Milliomen Tonnen. Japan auf Platz 3 mit 2,2 Millionen Tonnen. Deutschland auf PLatz 4 mit 1,8 Millionen Tonnen. "
 				),
 			],
 			softwareSkills: [
